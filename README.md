@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApostL78 🇷🇺🛡️
 - 👀 I’m interested in PrOgRaMiNg 🌐💻
-- 🌱 My currently stak of technologies is: Python/Django 🛠️⚙️
+- 🌱 My currently stack of technologies is: Python/Django 🛠️⚙️
 - 💞️ I’m looking to collaborate with great people and achieve our goals 🎯🔥
 - 📫 How to reach me: 📨 vgwrbrvw@mail.ru 📬
 
