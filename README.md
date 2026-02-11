@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">ApostL78</h1>
 
-<!--
-**ApostL78/ApostL78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">2026</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <picture>
+    <img src="/isocalendar.svg" alt="Current Year Activity" width="100%">
+  </picture>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Pixel Art Wall (2022 — 2025)</h3>
+
+<p align="center">
+  <picture>
+    <img src="/calendar.svg" alt="Pixel Art Contribution Calendar" width="100%">
+  </picture>
+</p>
