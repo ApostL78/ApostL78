@@ -1,19 +1,19 @@
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65" width="100%">
 </picture>
 
 <!-- OCTOCAT -->
 <p align="center">
-  <img src="assets/octocat.png" width="200" alt="Octocat">
+  <img src="assets/octocat.png" width="600" alt="Octocat">
 </p>
 
 <!-- SKILL ICONS -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq&perline=10" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq,graphql,aws,elasticsearch,grafana,bitbucket,github,githubactions,ai,kafka,nginx,obsidian,postman,pycharm,regex,sqlite,stackoverflow,sentry,ubuntu,windows,devto&perline=10" alt="Skills">
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 </p>
 
 <!-- ACTIVITY: PIXEL ART WALL -->
-<h3 align="center">Pixel Art Wall (2022 — 2025)</h3>
+<h3 align="center">Pixel Art Wall</h3>
 
 <p align="center">
   <picture>
@@ -45,15 +45,6 @@
 <p align="center">
   <picture>
     <img src="/repositories.svg" alt="Pinned Repositories" width="100%">
-  </picture>
-</p>
-
-<!-- ACHIEVEMENTS -->
-<h3 align="center">Achievements</h3>
-
-<p align="center">
-  <picture>
-    <img src="/achievements.svg" alt="Achievements" width="100%">
   </picture>
 </p>
 
@@ -76,6 +67,8 @@
     <img src="/starlists.svg" alt="Star Lists" width="100%">
   </picture>
 </p>
+
+![RelaxingRobo](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
 
 <!-- FOOTER -->
 <picture>

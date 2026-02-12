@@ -47,16 +47,6 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 6
 
-      # Achievements
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
 
       # Starlists
       - name: Starlists
