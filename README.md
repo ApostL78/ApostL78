@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
 </picture>
 
 <!-- OCTOCAT -->
@@ -12,19 +12,12 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq&perline=10&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq&perline=10&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq&perline=10&theme=dark" alt="Skills">
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq&perline=10" alt="Skills">
+  </a>
 </p>
 
-<!-- WAVE DIVIDER 1 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
-</picture>
+---
 
 <!-- ACTIVITY: ISOCALENDAR -->
 <h3 align="center">2026</h3>
@@ -44,12 +37,7 @@
   </picture>
 </p>
 
-<!-- WAVE DIVIDER 2 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
-</picture>
+---
 
 <!-- PINNED PROJECTS -->
 <h3 align="center">Pinned Projects</h3>
@@ -69,12 +57,7 @@
   </picture>
 </p>
 
-<!-- WAVE DIVIDER 3 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
-</picture>
+---
 
 <!-- LEETCODE -->
 <h3 align="center">LeetCode</h3>
@@ -96,7 +79,7 @@
 
 <!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,50:1a1b4b,100:0d1117&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,100:1a1b4b&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:764ba2,100:667eea&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,50:1a1b4b,100:0d1117&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,100:1a1b4b&section=footer" width="100%">
 </picture>
