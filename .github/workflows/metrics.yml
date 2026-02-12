@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       # 2022-2025 pixel art — flat commit calendar
       - name: Calendar (pixel art years)
@@ -81,4 +81,4 @@ jobs:
           base: ""
           user: ApostL78
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills

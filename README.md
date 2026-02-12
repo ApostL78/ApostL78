@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,16,18,20&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
 </picture>
 
 <!-- OCTOCAT -->
@@ -21,9 +21,9 @@
 
 <!-- WAVE DIVIDER 1 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=12,14,16,18,20&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
 </picture>
 
 <!-- ACTIVITY: ISOCALENDAR -->
@@ -46,9 +46,9 @@
 
 <!-- WAVE DIVIDER 2 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=12,14,16,18,20&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
 </picture>
 
 <!-- PINNED PROJECTS -->
@@ -71,9 +71,9 @@
 
 <!-- WAVE DIVIDER 3 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=12,14,16,18,20&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:667eea,100:764ba2&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0d1117,50:1a1b4b,100:4c1d95&section=footer" width="100%">
 </picture>
 
 <!-- LEETCODE -->
@@ -96,7 +96,7 @@
 
 <!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,5,2,2,0&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,18,16,14,12&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,5,2,2,0&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,50:1a1b4b,100:0d1117&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:764ba2,100:667eea&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,50:1a1b4b,100:0d1117&section=footer" width="100%">
 </picture>
