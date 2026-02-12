@@ -16,6 +16,7 @@ jobs:
 
       # Current year — 3D isometric calendar
       - name: Isocalendar (current year)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
@@ -26,6 +27,7 @@ jobs:
 
       # 2022-2025 pixel art — flat commit calendar
       - name: Calendar (pixel art years)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: calendar.svg
@@ -33,3 +35,50 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 5
+
+      # Pinned repositories
+      - name: Pinned Repositories
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+
+      # Achievements
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+      # Starlists
+      - name: Starlists
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: starlists.svg
+          token: NOT_NEEDED
+          base: ""
+          user: ApostL78
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+
+      # LeetCode
+      - name: LeetCode
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          user: ApostL78
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
