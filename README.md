@@ -1,9 +1,7 @@
 <!-- HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65" width="100%">
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
+</p>
 
 <!-- OCTOCAT -->
 <p align="center">
@@ -71,8 +69,6 @@
 ![RelaxingRobo](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
 
 <!-- FOOTER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,100:1a1b4b&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:764ba2,100:667eea&section=footer">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4c1d95,100:1a1b4b&section=footer" width="100%">
-</picture>
+</p>
