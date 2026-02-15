@@ -20,9 +20,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          user: ApostL78
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -32,9 +31,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: calendar.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          user: ApostL78
           plugin_calendar: yes
           plugin_calendar_limit: 5
 
