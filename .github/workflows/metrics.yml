@@ -22,6 +22,7 @@ jobs:
           filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_include: public
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -33,6 +34,7 @@ jobs:
           filename: calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_include: public
           plugin_calendar: yes
           plugin_calendar_limit: 5
 

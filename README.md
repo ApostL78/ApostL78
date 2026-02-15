@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=ffffff&descAlignY=65&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b4b,100:4c1d95&text=ApostL78&desc=Backend%20Developer&fontColor=c4b5fd&descAlignY=65&animation=twinkling" width="100%">
 </p>
 
 <!-- OCTOCAT -->
@@ -11,7 +11,7 @@
 <!-- SKILL ICONS -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,bash,rabbitmq,graphql,aws,elasticsearch,grafana,bitbucket,github,githubactions,ai,kafka,nginx,obsidian,postman,pycharm,regex,sqlite,stackoverflow,sentry,ubuntu,windows,devto&perline=10" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,elasticsearch,graphql,kafka,rabbitmq,docker,nginx,aws,linux,ubuntu,bash,git,github,githubactions,bitbucket,grafana,sentry,postman,pycharm,obsidian,regex,sqlite,ai,stackoverflow,devto,windows&perline=10" alt="Skills">
   </a>
 </p>
 
